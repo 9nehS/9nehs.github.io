@@ -11,6 +11,6 @@ Linux下我们一般使用pwd，Windows下我们用什么呢？
 Linux下我们可以用cat，Windows下以前没用过，难道也是cat？
 谷歌了一把，用type就可以了：
 <br>
-type filename
+<div font-style:italic>type filename</div>
 <br>
-type filename | more
+<div font-style:italic>type filename | more</div>
